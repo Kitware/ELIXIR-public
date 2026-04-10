@@ -1,0 +1,33 @@
+# Developed with python 3.10
+# Not all the dependencies are used in the public version of the code
+
+numpy==1.25.2
+tqdm==4.67.1
+opencv-python==4.11.0.86
+pandas==2.3.3
+vtk==9.5.2
+torch==2.4.1 --index-url https://download.pytorch.org/whl/cu124
+torchvision==0.19.1 --index-url https://download.pytorch.org/whl/cu124
+tensorboard==2.20.0
+viser==1.0.22
+nerfview==0.1.3
+splines==0.3.3
+
+wheel==0.46.3
+ninja==1.13
+jaxtyping==0.3.7
+rich==14.3.2
+matplotlib==3.10.8
+
+gvxr==2.0.10
+loguru==0.7.3
+notebook==7.5.2
+pymeshlab==2025.7
+
+pycocotools==2.0.11
+scikit-learn==1.7.2
+ultralytics==8.4.11
+onnx==1.20.1
+onnxslim==0.1.85
+onnxruntime-gpu==1.23.2
+pyYAML==6.0.3
